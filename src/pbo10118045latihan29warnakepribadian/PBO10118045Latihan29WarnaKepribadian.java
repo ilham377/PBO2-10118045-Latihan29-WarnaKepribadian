@@ -80,7 +80,7 @@ public class PBO10118045Latihan29WarnaKepribadian {
             System.out.println("5. Memiliki empati yang besar,");
             System.out.println("6. Memiliki sisi misterius sebab seringkali menutupi perasaannya, ");
             System.out.println("7. Terkadang bersikap keras kepala dan angkuh,");
-       }else if ("Hijau".equals(warna)){
+       }else if ("hijau".equals(warna)){
             System.out.println("Warna Favoritmu adalah "+ANSI_GREEN+"BIRU");
             System.out.println("1. Romantis,");
             System.out.println("2. Menyukai hal yang berbau alami dan keindahan,");
